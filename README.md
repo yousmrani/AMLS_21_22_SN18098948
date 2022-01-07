@@ -1,5 +1,5 @@
 # AMLS_Coursework
-This is a private repository for the AMLS coursework (2021-2022) regarding Tumor Detection/Recognition
+This is a private repository for the AMLS coursework (2021-2022) regarding Tumor Detection and Recognition
 
 ### Task Introduction 
 In this repository, we will test different Machine Learning models to solve two tasks: Brain Tumour detection and Brain Tumour classification. 
